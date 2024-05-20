@@ -1,4 +1,4 @@
--backend
+-----------for backend-------------
 
 npm init -y
 
@@ -10,7 +10,7 @@ node server.js
 
 
 
--frontend
+---------for frontend------------
 
 npm init -y
 
